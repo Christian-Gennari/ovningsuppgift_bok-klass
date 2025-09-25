@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ovningsuppgift_bok-klass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ebf36b72efe7c286e681b40a11a0a6e5bb6c7ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("ovningsuppgift_bok-klass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ovningsuppgift_bok-klass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

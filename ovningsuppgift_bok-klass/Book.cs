@@ -2,19 +2,24 @@ using System;
 
 namespace ovningsuppgift_bok_klass;
 
-
 public class Book
 {
-  public string title = "Okänd";
-  public string author = "Okänd";
-  public int price = 199;
+  public string title;
+  public string author;
+  public int price;
 
-  public Book() { }
+  public Book()
+  {
+    title = "Okänd";
+    author = "Okänd";
+    price = 199;
+  }
 
   public Book(string title, string author)
   {
     this.title = title;
     this.author = author;
+    this.price = 199;
   }
 
   public Book(string title, string author, int price)
@@ -23,7 +28,6 @@ public class Book
     this.author = author;
     this.price = price;
   }
-
 }
 
 
