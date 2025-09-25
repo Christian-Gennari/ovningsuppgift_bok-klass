@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ovningsuppgift_bok-klass/1.0.0": {
+        "runtime": {
+          "ovningsuppgift_bok-klass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ovningsuppgift_bok-klass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
